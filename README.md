@@ -1,4 +1,4 @@
-# GenAI RAG Assistant (Learning Project — Phase 1)
+# GenAI RAG Assistant (Phase 1)
 
 A minimal but real Retrieval-Augmented Generation (RAG) system: ask questions
 over your own documents and get answers grounded in them, with sources cited.
